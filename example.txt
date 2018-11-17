@@ -10,3 +10,6 @@ $c= $a * $b;
 hitungKali()=new hitungKali;
 hitungKali();
 ?>
+class Library(){
+public function __Construct(){
+}
