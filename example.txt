@@ -5,3 +5,7 @@ $b=4;
 $c= $a * $b;
 echo $c;
 ?>
+<?php
+class Library(){
+public function __construct(){
+}
