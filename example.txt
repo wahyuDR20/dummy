@@ -1,11 +1,12 @@
 bikin bikin
 bikin bikin
-<?php $a = 3;
+<?php 
+public function hitungKali(){
+$a = 3;
 $b=4;
 $c= $a * $b;
-echo $c;
-?>
+}?>
 <?php
-class Library(){
-public function __construct(){
-}
+hitungKali()=new hitungKali;
+hitungKali();
+?>
